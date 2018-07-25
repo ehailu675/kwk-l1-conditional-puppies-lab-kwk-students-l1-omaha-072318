@@ -6,4 +6,4 @@ def no_puppies(puppies)
   end
 end
 
-no_puppies(0)
+no_puppies(6)
