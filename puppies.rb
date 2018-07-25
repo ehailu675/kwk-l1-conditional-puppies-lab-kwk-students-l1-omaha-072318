@@ -13,7 +13,7 @@ def less_puppies (number)
   if number < 3
     puts "Good job, Rachel!"
   elsif number == 3
-    puts "Get back to your animal goals"
+    puts "Get back to your animal goals!"
   else number > 3
     puts "Go back to animal restriction!"
   end
